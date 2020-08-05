@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/priorities/static/css/main.3322ed9c.chunk.css",
+    "main.css": "/priorities/static/css/main.feef2431.chunk.css",
     "main.js": "/priorities/static/js/main.7341a593.chunk.js",
     "main.js.map": "/priorities/static/js/main.7341a593.chunk.js.map",
     "runtime-main.js": "/priorities/static/js/runtime-main.377a9202.js",
@@ -9,10 +9,10 @@
     "static/js/2.6faaffde.chunk.js": "/priorities/static/js/2.6faaffde.chunk.js",
     "static/js/2.6faaffde.chunk.js.map": "/priorities/static/js/2.6faaffde.chunk.js.map",
     "index.html": "/priorities/index.html",
-    "precache-manifest.bc0383f00d39af5ce42f55c595f5d224.js": "/priorities/precache-manifest.bc0383f00d39af5ce42f55c595f5d224.js",
+    "precache-manifest.f6f641edff7701a0c50ecf49ddd1b9c9.js": "/priorities/precache-manifest.f6f641edff7701a0c50ecf49ddd1b9c9.js",
     "service-worker.js": "/priorities/service-worker.js",
     "static/css/2.9df7aa81.chunk.css.map": "/priorities/static/css/2.9df7aa81.chunk.css.map",
-    "static/css/main.3322ed9c.chunk.css.map": "/priorities/static/css/main.3322ed9c.chunk.css.map",
+    "static/css/main.feef2431.chunk.css.map": "/priorities/static/css/main.feef2431.chunk.css.map",
     "static/js/2.6faaffde.chunk.js.LICENSE.txt": "/priorities/static/js/2.6faaffde.chunk.js.LICENSE.txt",
     "static/media/index.css": "/priorities/static/media/Coves Bold.2673b4f6.otf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.377a9202.js",
     "static/css/2.9df7aa81.chunk.css",
     "static/js/2.6faaffde.chunk.js",
-    "static/css/main.3322ed9c.chunk.css",
+    "static/css/main.feef2431.chunk.css",
     "static/js/main.7341a593.chunk.js"
   ]
 }
